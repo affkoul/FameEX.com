@@ -1,5 +1,5 @@
 # fameex.com
-FameEX.com Front-End Web App Futures Exchange & Trade Web App Upgrade
+FameEX.com Front-End Futures Exchange & Trade Web App Upgrade
 
 ![GAC Logo](https://geniusandcourage.com/favicon.ico)
 
